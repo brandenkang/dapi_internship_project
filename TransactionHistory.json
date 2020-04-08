@@ -1,0 +1,514 @@
+{
+  "jobID": "130d3a70-13a9-47ce-b28b-489a01831209",
+  "success": true,
+  "status": "done",
+  "transactions": [
+    {
+      "description": "Purchase Settlement 532723XXXXXX1666 0307 134723 888195 44201170 EPPCO-ROVET HOTEL 5586 DUBAI AE FT200695WJ28",
+      "details": null,
+      "type": "debit",
+      "currency": {
+        "code": "AED",
+        "name": "UNITED ARAB EMIRATES DIRHAM"
+      },
+      "date": "2020-03-09T00:00:00+04:00",
+      "afterAmount": 74855.21,
+      "beforeAmount": 74906.71,
+      "amount": 51.5
+    },
+    {
+      "description": "Purchase Settlement 532723XXXXXX1666 0307 220834 065417 44201171 EPPCO-ROVET HOTEL 5586 DUBAI AE FT2006901XV7",
+      "details": null,
+      "type": "debit",
+      "currency": {
+        "code": "AED",
+        "name": "UNITED ARAB EMIRATES DIRHAM"
+      },
+      "date": "2020-03-09T00:00:00+04:00",
+      "afterAmount": 74906.71,
+      "beforeAmount": 74936.46,
+      "amount": 29.75
+    },
+    {
+      "description": "Purchase Settlement 532723XXXXXX1666 0308 102757 149070 44300347 EMARAT-HASSA-4855) C S DUBAI AE FT20069T00V5",
+      "details": null,
+      "type": "debit",
+      "currency": {
+        "code": "AED",
+        "name": "UNITED ARAB EMIRATES DIRHAM"
+      },
+      "date": "2020-03-09T00:00:00+04:00",
+      "afterAmount": 74936.46,
+      "beforeAmount": 74962.46,
+      "amount": 26
+    },
+    {
+      "description": "Purchase Settlement 532723XXXXXX1666 0306 163515 592552 11111151 Zomato Dubai AE FT20069ZZVGW",
+      "details": null,
+      "type": "debit",
+      "currency": {
+        "code": "AED",
+        "name": "UNITED ARAB EMIRATES DIRHAM"
+      },
+      "date": "2020-03-09T00:00:00+04:00",
+      "afterAmount": 74962.46,
+      "beforeAmount": 75018.46,
+      "amount": 56
+    },
+    {
+      "description": "Purchase Settlement 532723XXXXXX1666 0307 003428 735701 10091715 SAH EL NOM CAFE AND RE DUBAI AE FT20069C5Y2C",
+      "details": null,
+      "type": "debit",
+      "currency": {
+        "code": "AED",
+        "name": "UNITED ARAB EMIRATES DIRHAM"
+      },
+      "date": "2020-03-09T00:00:00+04:00",
+      "afterAmount": 75018.46,
+      "beforeAmount": 75438.46,
+      "amount": 420
+    },
+    {
+      "description": "Purchase Settlement 532723XXXXXX1666 0307 073941 000006 00215690 CSCxUS EMBASSY MRV FEE 703-889-2611 US FT20069Q9FRY",
+      "details": null,
+      "type": "debit",
+      "currency": {
+        "code": "AED",
+        "name": "UNITED ARAB EMIRATES DIRHAM"
+      },
+      "date": "2020-03-09T00:00:00+04:00",
+      "afterAmount": 75438.46,
+      "beforeAmount": 76044.73000000001,
+      "amount": 606.27
+    },
+    {
+      "description": "Purchase Settlement 532723XXXXXX1666 0307 111812 892317 00080167 Etisalat Digital App Abu Dhabi AE FT20069XB3N3",
+      "details": null,
+      "type": "debit",
+      "currency": {
+        "code": "AED",
+        "name": "UNITED ARAB EMIRATES DIRHAM"
+      },
+      "date": "2020-03-09T00:00:00+04:00",
+      "afterAmount": 76044.73,
+      "beforeAmount": 76344.73,
+      "amount": 300
+    },
+    {
+      "description": "Purchase Settlement 532723XXXXXX1666 0308 212608 534400 00227524 AS-SHAKESHACK-D063 ABU DHABI AE FT20069T7WGH",
+      "details": null,
+      "type": "debit",
+      "currency": {
+        "code": "AED",
+        "name": "UNITED ARAB EMIRATES DIRHAM"
+      },
+      "date": "2020-03-09T00:00:00+04:00",
+      "afterAmount": 76344.73,
+      "beforeAmount": 76435.73,
+      "amount": 91
+    },
+    {
+      "description": "Purchase Settlement 532723XXXXXX1666 0307 190334 984253 11111150 Zomato Dubai AE FT200696W5LM",
+      "details": null,
+      "type": "debit",
+      "currency": {
+        "code": "AED",
+        "name": "UNITED ARAB EMIRATES DIRHAM"
+      },
+      "date": "2020-03-09T00:00:00+04:00",
+      "afterAmount": 76435.73,
+      "beforeAmount": 76520.73,
+      "amount": 85
+    },
+    {
+      "description": "Inward Telex Payment DAPI LTD REF Instant Transfer FT20069TDX8R",
+      "details": null,
+      "type": "credit",
+      "currency": {
+        "code": "AED",
+        "name": "UNITED ARAB EMIRATES DIRHAM"
+      },
+      "date": "2020-03-09T00:00:00+04:00",
+      "afterAmount": 76520.73,
+      "beforeAmount": 72220.73,
+      "amount": 4300
+    },
+    {
+      "description": "Inward Telex Payment MOHAMMED ALI MOHAMMED AL AMEENNA NA IPI Inward Transfer FROM AE460260000959006817101 IPI200308006TJNM FT20068L39WB\\HCP",
+      "details": null,
+      "type": "credit",
+      "currency": {
+        "code": "AED",
+        "name": "UNITED ARAB EMIRATES DIRHAM"
+      },
+      "date": "2020-03-08T00:00:00+04:00",
+      "afterAmount": 72220.73,
+      "beforeAmount": 72219.73,
+      "amount": 1
+    },
+    {
+      "description": "Purchase Settlement 532723XXXXXX1666 0304 193509 883431 11111151 Zomato Dubai AE FT20067526BB",
+      "details": null,
+      "type": "debit",
+      "currency": {
+        "code": "AED",
+        "name": "UNITED ARAB EMIRATES DIRHAM"
+      },
+      "date": "2020-03-07T00:00:00+04:00",
+      "afterAmount": 72219.73,
+      "beforeAmount": 72243.73,
+      "amount": 24
+    },
+    {
+      "description": "Purchase Settlement 532723XXXXXX1666 0305 232249 394473 11111151 Zomato Dubai AE FT2006729FJ6",
+      "details": null,
+      "type": "debit",
+      "currency": {
+        "code": "AED",
+        "name": "UNITED ARAB EMIRATES DIRHAM"
+      },
+      "date": "2020-03-07T00:00:00+04:00",
+      "afterAmount": 72243.73,
+      "beforeAmount": 72303.48,
+      "amount": 59.75
+    },
+    {
+      "description": "Purchase Settlement 532723XXXXXX1666 0304 194504 882651 44201040 ENOC SITE 6534-CSTORE DUBAI AE FT20067714L9",
+      "details": null,
+      "type": "debit",
+      "currency": {
+        "code": "AED",
+        "name": "UNITED ARAB EMIRATES DIRHAM"
+      },
+      "date": "2020-03-07T00:00:00+04:00",
+      "afterAmount": 72303.48,
+      "beforeAmount": 72322.48,
+      "amount": 19
+    },
+    {
+      "description": "Purchase Settlement 532723XXXXXX1666 0304 110935 553531 67400564 CARS TAXI SERVICES CO DUBAI AE FT200673RYFW",
+      "details": null,
+      "type": "debit",
+      "currency": {
+        "code": "AED",
+        "name": "UNITED ARAB EMIRATES DIRHAM"
+      },
+      "date": "2020-03-07T00:00:00+04:00",
+      "afterAmount": 72322.48,
+      "beforeAmount": 72380.48,
+      "amount": 58
+    },
+    {
+      "description": "Purchase Settlement 532723XXXXXX1666 0304 230515 029610 10091715 SAH EL NOM CAFE AND RE DUBAI AE FT20067XT8CM",
+      "details": null,
+      "type": "debit",
+      "currency": {
+        "code": "AED",
+        "name": "UNITED ARAB EMIRATES DIRHAM"
+      },
+      "date": "2020-03-07T00:00:00+04:00",
+      "afterAmount": 72380.48,
+      "beforeAmount": 72930.48,
+      "amount": 550
+    },
+    {
+      "description": "Purchase Settlement 532723XXXXXX1666 0305 125652 218122 44201040 ENOC SITE 6534-CSTORE DUBAI AE FT200678FRM5",
+      "details": null,
+      "type": "debit",
+      "currency": {
+        "code": "AED",
+        "name": "UNITED ARAB EMIRATES DIRHAM"
+      },
+      "date": "2020-03-07T00:00:00+04:00",
+      "afterAmount": 72930.48,
+      "beforeAmount": 73063.23,
+      "amount": 132.75
+    },
+    {
+      "description": "IBK Other Bank Trans Debit KAMIL ABID KAMILI SW-HDFCINBBXXX TOF - Transfer of Funds FT20067FQNR8",
+      "details": null,
+      "type": "debit",
+      "currency": {
+        "code": "AED",
+        "name": "UNITED ARAB EMIRATES DIRHAM"
+      },
+      "date": "2020-03-07T00:00:00+04:00",
+      "afterAmount": 73063.23,
+      "beforeAmount": 75063.23,
+      "amount": 2000
+    },
+    {
+      "description": "Inward Telex Payment DAPI LTD REF Instant Transfer Kamil - Reimb ursement FT200654VYND",
+      "details": null,
+      "type": "credit",
+      "currency": {
+        "code": "AED",
+        "name": "UNITED ARAB EMIRATES DIRHAM"
+      },
+      "date": "2020-03-05T00:00:00+04:00",
+      "afterAmount": 80138.23,
+      "beforeAmount": 69602.23,
+      "amount": 10536
+    },
+    {
+      "description": "Outward Telex Payment The Box Self Storage Services LLC SW-NBSHAEASXXX IPI Outward Transfer TO AE210030010148037920001 FT20065H1DD9\\HCP",
+      "details": null,
+      "type": "debit",
+      "currency": {
+        "code": "AED",
+        "name": "UNITED ARAB EMIRATES DIRHAM"
+      },
+      "date": "2020-03-05T00:00:00+04:00",
+      "afterAmount": 69602.23,
+      "beforeAmount": 71002.23,
+      "amount": 1400
+    },
+    {
+      "description": "Fees or Charges WSO041200305000009 0011352348001 FT20065H1DD9\\HCP",
+      "details": null,
+      "type": "debit",
+      "currency": {
+        "code": "AED",
+        "name": "UNITED ARAB EMIRATES DIRHAM"
+      },
+      "date": "2020-03-05T00:00:00+04:00",
+      "afterAmount": 71002.23,
+      "beforeAmount": 71002.73,
+      "amount": 0.5
+    },
+    {
+      "description": "Tax Amount Payable AC-0011352348001 FT20065H1DD9\\HCP",
+      "details": null,
+      "type": "debit",
+      "currency": {
+        "code": "AED",
+        "name": "UNITED ARAB EMIRATES DIRHAM"
+      },
+      "date": "2020-03-05T00:00:00+04:00",
+      "afterAmount": 71002.73,
+      "beforeAmount": 71002.76,
+      "amount": 0.03
+    },
+    {
+      "description": "Purchase Settlement 532723XXXXXX1666 0304 144439 777452 00225033 PINK PEPPER PHOTO.-DXB DUBAI AE FT20065D2YBB",
+      "details": null,
+      "type": "debit",
+      "currency": {
+        "code": "AED",
+        "name": "UNITED ARAB EMIRATES DIRHAM"
+      },
+      "date": "2020-03-05T00:00:00+04:00",
+      "afterAmount": 75063.23,
+      "beforeAmount": 75138.23,
+      "amount": 75
+    },
+    {
+      "description": "Purchase Settlement 532723XXXXXX1666 0303 071031 766316 83246 ABU DHABI GLOBAL MARKE 97123338888 AE FT200659BTW5",
+      "details": null,
+      "type": "debit",
+      "currency": {
+        "code": "AED",
+        "name": "UNITED ARAB EMIRATES DIRHAM"
+      },
+      "date": "2020-03-05T00:00:00+04:00",
+      "afterAmount": 75138.23,
+      "beforeAmount": 80138.23,
+      "amount": 5000
+    },
+    {
+      "description": "Inward Telex Payment DAPI LTD REF Instant Transfer FT20063CLK23",
+      "details": null,
+      "type": "credit",
+      "currency": {
+        "code": "AED",
+        "name": "UNITED ARAB EMIRATES DIRHAM"
+      },
+      "date": "2020-03-03T00:00:00+04:00",
+      "afterAmount": 101038.34,
+      "beforeAmount": 96038.34,
+      "amount": 5000
+    },
+    {
+      "description": "Purchase Settlement 532723XXXXXX1666 0302 054656 599317 00321319 GOOGLE xGSUITE 006271716582 FT20063811FN",
+      "details": null,
+      "type": "debit",
+      "currency": {
+        "code": "AED",
+        "name": "UNITED ARAB EMIRATES DIRHAM"
+      },
+      "date": "2020-03-03T00:00:00+04:00",
+      "afterAmount": 71002.76,
+      "beforeAmount": 71070.95999999999,
+      "amount": 68.2
+    },
+    {
+      "description": "Purchase Settlement 532723XXXXXX1666 0302 184545 680480 00227494 ALSHAYA-TEXAS-D038 ABU DHABI AE FT20063LM2L5",
+      "details": null,
+      "type": "debit",
+      "currency": {
+        "code": "AED",
+        "name": "UNITED ARAB EMIRATES DIRHAM"
+      },
+      "date": "2020-03-03T00:00:00+04:00",
+      "afterAmount": 71070.96,
+      "beforeAmount": 71218.96,
+      "amount": 148
+    },
+    {
+      "description": "Purchase Settlement 532723XXXXXX1666 0301 233327 266247 MASS2I01 SAFARPASS LTD ABU DHABI AE FT20063DM74F",
+      "details": null,
+      "type": "debit",
+      "currency": {
+        "code": "AED",
+        "name": "UNITED ARAB EMIRATES DIRHAM"
+      },
+      "date": "2020-03-03T00:00:00+04:00",
+      "afterAmount": 71218.96,
+      "beforeAmount": 71738.76000000001,
+      "amount": 519.8
+    },
+    {
+      "description": "IBK Other Bank Trans Debit UC BERKELEY CENTER FOR EXECUTIVE ED UCATION SW-CHASUS33XXX TOF - Transfer of Funds FT20063ZSY20",
+      "details": null,
+      "type": "debit",
+      "currency": {
+        "code": "AED",
+        "name": "UNITED ARAB EMIRATES DIRHAM"
+      },
+      "date": "2020-03-03T00:00:00+04:00",
+      "afterAmount": 71738.76,
+      "beforeAmount": 101012.09,
+      "amount": 29273.33
+    },
+    {
+      "description": "Account Transfer Charges IBMB 0011352348001 FT20063ZSY20",
+      "details": null,
+      "type": "debit",
+      "currency": {
+        "code": "AED",
+        "name": "UNITED ARAB EMIRATES DIRHAM"
+      },
+      "date": "2020-03-03T00:00:00+04:00",
+      "afterAmount": 101012.09,
+      "beforeAmount": 101037.09,
+      "amount": 25
+    },
+    {
+      "description": "Tax Amount Payable AC-0011352348001 FT20063ZSY20",
+      "details": null,
+      "type": "debit",
+      "currency": {
+        "code": "AED",
+        "name": "UNITED ARAB EMIRATES DIRHAM"
+      },
+      "date": "2020-03-03T00:00:00+04:00",
+      "afterAmount": 101037.09,
+      "beforeAmount": 101038.34,
+      "amount": 1.25
+    },
+    {
+      "description": "Purchase Settlement 532723XXXXXX1666 0229 191204 736913 11111151 Zomato Dubai AE FT20062QTH9W",
+      "details": null,
+      "type": "debit",
+      "currency": {
+        "code": "AED",
+        "name": "UNITED ARAB EMIRATES DIRHAM"
+      },
+      "date": "2020-03-02T00:00:00+04:00",
+      "afterAmount": 96038.34,
+      "beforeAmount": 96098.09,
+      "amount": 59.75
+    },
+    {
+      "description": "Purchase Settlement 532723XXXXXX1666 0229 122159 585707 11111130 Zomato Dubai AE FT20062M4Z48",
+      "details": null,
+      "type": "debit",
+      "currency": {
+        "code": "AED",
+        "name": "UNITED ARAB EMIRATES DIRHAM"
+      },
+      "date": "2020-03-02T00:00:00+04:00",
+      "afterAmount": 96098.09,
+      "beforeAmount": 96145.84,
+      "amount": 47.75
+    },
+    {
+      "description": "Purchase Settlement 532723XXXXXX1666 0301 005538 964986 00000001 DIGITALOCEAN COM NEW YORK CITYUS FT20062L7BMY",
+      "details": null,
+      "type": "debit",
+      "currency": {
+        "code": "AED",
+        "name": "UNITED ARAB EMIRATES DIRHAM"
+      },
+      "date": "2020-03-02T00:00:00+04:00",
+      "afterAmount": 96145.84,
+      "beforeAmount": 96206.19,
+      "amount": 60.35
+    },
+    {
+      "description": "Purchase Settlement 532723XXXXXX1666 0228 223059 364111 11111151 Zomato Dubai AE FT20062ND52M",
+      "details": null,
+      "type": "debit",
+      "currency": {
+        "code": "AED",
+        "name": "UNITED ARAB EMIRATES DIRHAM"
+      },
+      "date": "2020-03-02T00:00:00+04:00",
+      "afterAmount": 96206.19,
+      "beforeAmount": 96251.19,
+      "amount": 45
+    },
+    {
+      "description": "Purchase Settlement 532723XXXXXX1666 0228 132035 223426 11111150 Zomato Dubai AE FT200629RZL1",
+      "details": null,
+      "type": "debit",
+      "currency": {
+        "code": "AED",
+        "name": "UNITED ARAB EMIRATES DIRHAM"
+      },
+      "date": "2020-03-02T00:00:00+04:00",
+      "afterAmount": 96251.19,
+      "beforeAmount": 96280.79000000001,
+      "amount": 29.6
+    },
+    {
+      "description": "Purchase Settlement 532723XXXXXX1666 0228 134311 225061 44201170 EPPCO-ROVET HOTEL 5586 DUBAI AE FT20062K97NM",
+      "details": null,
+      "type": "debit",
+      "currency": {
+        "code": "AED",
+        "name": "UNITED ARAB EMIRATES DIRHAM"
+      },
+      "date": "2020-03-02T00:00:00+04:00",
+      "afterAmount": 96280.79,
+      "beforeAmount": 96309.25,
+      "amount": 28.46
+    },
+    {
+      "description": "Inward Telex Payment DAPI LTD REF Instant transfer FT200622LW32",
+      "details": null,
+      "type": "credit",
+      "currency": {
+        "code": "AED",
+        "name": "UNITED ARAB EMIRATES DIRHAM"
+      },
+      "date": "2020-03-02T00:00:00+04:00",
+      "afterAmount": 96309.25,
+      "beforeAmount": 67109.25,
+      "amount": 29200
+    },
+    {
+      "description": "Inward Telex Payment DAPI LTD REF Instant Transfer FT20061J5PQQ",
+      "details": null,
+      "type": "credit",
+      "currency": {
+        "code": "AED",
+        "name": "UNITED ARAB EMIRATES DIRHAM"
+      },
+      "date": "2020-03-01T00:00:00+04:00",
+      "afterAmount": 67109.25,
+      "beforeAmount": 56573.25,
+      "amount": 10536
+    }
+  ]
+}
